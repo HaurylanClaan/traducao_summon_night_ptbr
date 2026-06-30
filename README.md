@@ -11,7 +11,7 @@ Projeto de tradução para Português Brasileiro de **Summon Night: Swordcraft S
 ## Tecnologias
 
 - Python
-- Linux (Bazzite)
+- Linux
 - mGBA
 - GHex
 

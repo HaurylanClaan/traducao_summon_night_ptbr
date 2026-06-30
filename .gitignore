@@ -1,4 +1,21 @@
+# ROMs
 *.gba
+*.agb
+*.bin
+
+# Saves
 *.sav
 *.srm
 *.state
+
+# mGBA
+*.ss*
+*.png
+
+# Python
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
